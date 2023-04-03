@@ -1,0 +1,5 @@
+rowsOfMap=100
+columnsOfMap=100
+simulatorTimer=10
+enemyAirplane=false
+javaAirplane=true
